@@ -20,5 +20,8 @@ O projeto também reforça conceitos importantes como estruturação de código,
 - JavaScript (ES6+)
 - Google Fonts
 
-Link para a visualização da aplicação:
+Link para a visualização da aplicação: https://gabrielisaacdelgado.github.io/carrinho-de-compras/
+
+<img width="1920" height="1080" alt="{DE6BD673-AE8A-4DBD-A5B3-D4070D6F6589}" src="https://github.com/user-attachments/assets/82c85068-7ebb-4b26-ac16-e1294a32a6fd" />
+
 
